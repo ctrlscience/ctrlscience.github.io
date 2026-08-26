@@ -2,7 +2,7 @@
 layout: post
 title: "Los dragones del edén. ¿Por qué el miedo al dragón siempre fue miedo a nosotros mismos?"
 date: 2026-08-25
-image: /assets/images/vesalio_pagina_completa_mejorada.jpg
+image: /assets/images/vesalio.jpeg
 ---
 
 Si algo nos enseñó la evolución biológica es que la naturaleza no tira nada a la basura. No diseña en limpio; trabaja con lo que hay. La selección natural opera como el mecánico de la esquina: si el motor de un vocho todavía arranca, no lo cambia; nomás le amarra con alambre un turbo arriba y que ruede hasta donde aguante el chasis.
