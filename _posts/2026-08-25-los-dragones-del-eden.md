@@ -83,3 +83,6 @@ Si quieren entender por qué somos tan listos y, a la vez, tan pendejos, lean es
 ---
 
 **P. D.** La imagen que les adjunto es una de mis favoritas del libro: el hombre examinándose a sí mismo. Esta ilustración es un grabado emblemático de Andrés Vesalio (Andreas Vesalius), extraído de su célebre obra de 1543, *De humani corporis fabrica* (Sobre la estructura del cuerpo humano).
+
+REFERENCIAS: 
+Sagan, C. (1977). The Dragons of Eden: Speculations on the evolution of human intelligence. Random House.
