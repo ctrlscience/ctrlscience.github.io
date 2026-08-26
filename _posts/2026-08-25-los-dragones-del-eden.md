@@ -2,7 +2,7 @@
 layout: post
 title: "Los dragones del edén"
 date: 2026-08-25
-image: /assets/images/posts/vesalio-hombre-examinandose.jpg
+image: /assets/images/vesalio_pagina_completa_mejorada.jpg
 ---
 
 ¿Por qué el miedo al dragón siempre fue miedo a nosotros mismos?
