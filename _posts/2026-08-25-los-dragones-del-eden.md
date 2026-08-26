@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "Los dragones del edén"
+title: "Los dragones del edén. ¿Por qué el miedo al dragón siempre fue miedo a nosotros mismos?"
 date: 2026-08-25
 image: /assets/images/vesalio_pagina_completa_mejorada.jpg
 ---
-
-¿Por qué el miedo al dragón siempre fue miedo a nosotros mismos?
 
 Si algo nos enseñó la evolución biológica es que la naturaleza no tira nada a la basura. No diseña en limpio; trabaja con lo que hay. La selección natural opera como el mecánico de la esquina: si el motor de un vocho todavía arranca, no lo cambia; nomás le amarra con alambre un turbo arriba y que ruede hasta donde aguante el chasis.
 
@@ -15,7 +13,7 @@ Hola, simbiontes. Acabo de terminar este libro y quiero contarles de qué va est
 
 Este libro es como ese primo que te cuenta historias turbias sobre tu propia familia, pero, en este caso, la familia es la especie humana y las historias son sobre cómo terminamos siendo tan… especiales. El autor, con ese estilo que te hace sentir inteligente y, al mismo tiempo, te da ganas de reírte de la desgracia ajena —o propia—, nos lleva de la mano por los pasillos de nuestro propio cráneo.
 
-El ser humano es una contradicción andante: una especie capaz de mandar sondas espaciales y, al mismo tiempo, poncharle las llantas a un coche mal estacionado en su propia cochera. La idea central es clara: no somos una obra maestra diseñada desde cero en una noche de inspiración divina, sino un carro viejo al que le han ido metiendo parches, cinta de aislar y piezas de otros modelos a lo largo de millones de años.
+El ser humano es una contradicción andante: una especie capaz de mandar sondas espaciales y, al mismo tiempo, poncharle las llantas a un coche mal estacionado en su banqueta. La idea central es clara: no somos una obra maestra diseñada desde cero en una noche de inspiración divina, sino un carro viejo al que le han ido metiendo parches, cinta de aislar y piezas de otros modelos a lo largo de millones de años.
 
 ## La vecindad intracraneal
 
@@ -33,7 +31,7 @@ De ahí surge la metáfora del Edén: la caída del paraíso no fue una manzana 
 
 El libro desmonta con elegancia el chovinismo antropocéntrico. La civilización no nació de una epifanía angelical, sino de la violencia organizada y la especialización urbana: venimos de Caín el homicida, no del bondadoso Abel. Si nuestros antepasados bípedos barrieron a otras especies del mapa, fue para erradicar cualquier competencia cognitiva en el camino.
 
-Por eso, cuando Sagan reflexiona sobre los experimentos de lenguaje de señas en chimpancés, el dardo es directo: enseñarles a comunicarse no es caridad científica, sino un intento tardío de reparar el genocidio intelectivo que cometimos contra el resto de los primates. Si un chimpancé razona, tiene autoconciencia y maneja abstracciones, ¿cuál es el criterio real para no extenderle derechos jurídicos básicos, salvo nuestra propia conveniencia?
+Por eso, cuando Sagan reflexiona sobre los experimentos de lenguaje de señas en chimpancés, el dardo es directo: enseñarles a comunicarse no es caridad científica, sino un intento tardío de reparar el genocidio intelectivo que cometimos contra el resto de los primates. 
 
 > "Si los chimpancés son criaturas que tienen conciencia de sus actos, capaces de realizar abstracciones, ¿por qué no poseen lo que hasta hoy se ha dado en llamar un estatuto de los «derechos humanos»? ¿Qué grado de inteligencia ha de alcanzar un chimpancé para que su muerte se catalogue jurídicamente como un asesinato?"
 > — Carl Sagan
