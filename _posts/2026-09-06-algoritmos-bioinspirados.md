@@ -185,7 +185,7 @@ Sí, la literatura ya demostró hasta el cansancio que estamos atascados en una 
 
 ---
 
-<div style="text-align:center; margin-top: 2em;">
+
 
 🧬 + 💻 = ⚡
 
