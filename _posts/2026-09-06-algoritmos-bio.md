@@ -2,7 +2,7 @@
 layout: post
 title: "Algoritmos bioinspirados: 3,800 millones de años de evolución comprimidos en un ciclo for"
 date: 2026-09-06
-image: /assets/images/banner.jpg
+image: /assets/images/banner.svg
 ---
 
 > Los algoritmos bioinspirados son, básicamente, optimizar soluciones que ya existen, pero mejoradas, usando como inspiración a la naturaleza.
@@ -10,7 +10,6 @@ image: /assets/images/banner.jpg
 
 He estado aprendiendo últimamente un punto de convergencia que no conocía entre la informática y la biología: **los algoritmos bioinspirados**.
 
-![Hormigas siguiendo un rastro de feromona](/assets/images/ants.jpg)
 _Sin GPS, sin jefa, sin junta de Zoom — y aun así encuentran la ruta más corta._
 
 Imagínate una hormiga. Una nomás, saliendo del hormiguero sin GPS, sin Google Maps, sin ni siquiera una idea clara de a dónde chingados va. Esa hormiga no sabe nada del universo, no sabe que existen las estrellas, no sabe ni que existe ella misma como concepto. Y aun así, en cuestión de minutos, ella y sus miles de hermanas van a encontrar la ruta más corta entre el hormiguero y la migaja de pan que se le cayó a alguien en el parque. Sin jefe. Sin plan. Sin junta de Zoom para decidir la estrategia.
