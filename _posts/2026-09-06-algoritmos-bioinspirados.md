@@ -4,7 +4,7 @@ date: 2026-09-06
 categories: [Ciencia, Computación]
 tags: [algoritmos bioinspirados, biología, inteligencia artificial, divulgación]
 image:
-  path: /assets/images/banner.jpg
+  path: /assets/images/banner.svg
 toc: true
 comments: true
 math: false
