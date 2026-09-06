@@ -169,26 +169,31 @@ Sí, la literatura ya demostró hasta el cansancio que estamos atascados en una 
 
 ## Para seguir leyendo (fuentes)
 
-Yang, X.-S. — sobre metaheurísticas, problemas NP-duros y el par exploración/explotación como componentes centrales de todo algoritmo metaheurístico (Blum y Roli, 2003).
-Kennedy, J. & Eberhart, R. (1995). Particle Swarm Optimization — el enjambre de partículas inspirado en bandadas de aves.
-Slowik, A. & Kwasnicka, H. et al. — Intelligent Computing: The Latest Advances, Challenges and Future, sobre Turing (1948) y los tres orígenes de la computación evolutiva. arXiv:2211.11281. https://arxiv.org/pdf/2211.11281
-Eiben, A. E. — Evolutionary Computing (notas de curso sobre historia paralela de EP, GA y ES). arXiv:cs/0511004. https://arxiv.org/pdf/cs/0511004
-Collet, P. — A Quick Presentation of Evolutionary Computation (Fogel's "Fossil Record", orígenes desde 1953). IGI Global. https://www.igi-global.com/chapter/quick-presentation-evolutionary-computation/44380
-Beyer, H.-G. & Schwefel, H.-P. — Evolution Strategies: A Comprehensive Introduction (historia detallada de las ES en Berlín). https://saksagan.ceng.metu.edu.tr/courses/ceng713/documents/Evolution%20strategies%20a%20comprehensive%20introduction.pdf
-Bäck, T., Hammel, U. & Schwefel, H.-P. (1997). Evolutionary Computation: Comments on the History and Current State. IEEE Transactions on Evolutionary Computation. https://sci2s.ugr.es/sites/default/files/files/Teaching/OtherPostGraduateCourses/Metaheuristicas/01%20-%20EC-History-IEEETEC-1-1-1997.pdf
-Kirkpatrick, S., Gelatt, C. D. & Vecchi, M. P. (1983). Optimization by Simulated Annealing. Science.
-Dorigo, M. (1992). Optimization, Learning and Natural Algorithms (tesis doctoral). Politecnico di Milano.
-Yang, W., Liu, H. & Zhang, Y. (2023). A Novel Human-Based Meta-Heuristic Algorithm: Dragon Boat Optimization (dato de +540 algoritmos conocidos). arXiv:2311.15539. https://arxiv.org/pdf/2311.15539
-Aranha, C. et al. incl. Dorigo, M. & Stützle, T. (2021). Metaphor-based metaheuristics, a call for action: the elephant in the room. Swarm Intelligence. https://link.springer.com/10.1007/s11721-021-00202-9
-Taxonomía metaphor-free de 145 metaheurísticas (2025). Springer. https://link.springer.com/article/10.1007/s10462-025-11456-8
-Bio-Inspired Algorithms Used in Medical Image Processing (2024). IGI Global. https://irma-international.org/chapter/bio-inspired-algorithms-used-in-medical-image-processing/338083/
-Bio-inspired algorithms in machine learning and deep learning for disease detection (2025). CRC Press. https://research.ajman.ac.ae/en/publications/bio-inspired-algorithms-in-machine-learning-and-deep-learning-for/
-O que são algoritmos bioinspirados? — panorama de aplicaciones en redes, seguridad, robótica, ingeniería biomédica y sistemas de energía. https://www.ecycle.com.br/algoritmos-bioinspirados/amp/
-Márquez Vera, M. A. (2023). Inteligencia de enjambre: de los sistemas naturales a los artificiales. Revista Digital Universitaria, 24(1). https://doi.org/10.22201/cuaieed.16076079e.2023.24.1.11
+## Para seguir leyendo (fuentes)
+
+- **Yang, X.-S.** — Sobre metaheurísticas, problemas NP-duros y el par exploración/explotación como componentes centrales de todo algoritmo metaheurístico (Blum y Roli, 2003).
+- **Kennedy, J. & Eberhart, R. (1995)**. *Particle Swarm Optimization* — El enjambre de partículas inspirado en bandadas de aves.
+- **Slowik, A. & Kwasnicka, H. et al.** — *Intelligent Computing: The Latest Advances, Challenges and Future*, sobre Turing (1948) y los tres orígenes de la computación evolutiva. [arXiv:2211.11281](https://arxiv.org/pdf/2211.11281).
+- **Eiben, A. E.** — *Evolutionary Computing* (notas de curso sobre historia paralela de EP, GA y ES). [arXiv:cs/0511004](https://arxiv.org/pdf/cs/0511004).
+- **Collet, P.** — *A Quick Presentation of Evolutionary Computation* (Fogel's "Fossil Record", orígenes desde 1953). IGI Global. [Enlace](https://www.igi-global.com/chapter/quick-presentation-evolutionary-computation/44380).
+- **Beyer, H.-G. & Schwefel, H.-P.** — *Evolution Strategies: A Comprehensive Introduction* (historia detallada de las ES en Berlín). [PDF](https://saksagan.ceng.metu.edu.tr/courses/ceng713/documents/Evolution%20strategies%20a%20comprehensive%20introduction.pdf).
+- **Bäck, T., Hammel, U. & Schwefel, H.-P. (1997)**. *Evolutionary Computation: Comments on the History and Current State*. IEEE Transactions on Evolutionary Computation. [PDF](https://sci2s.ugr.es/sites/default/files/files/Teaching/OtherPostGraduateCourses/Metaheuristicas/01%20-%20EC-History-IEEETEC-1-1-1997.pdf).
+- **Kirkpatrick, S., Gelatt, C. D. & Vecchi, M. P. (1983)**. *Optimization by Simulated Annealing*. Science.
+- **Dorigo, M. (1992)**. *Optimization, Learning and Natural Algorithms* (tesis doctoral). Politecnico di Milano.
+- **Yang, W., Liu, H. & Zhang, Y. (2023)**. *A Novel Human-Based Meta-Heuristic Algorithm: Dragon Boat Optimization* (dato de +540 algoritmos conocidos). [arXiv:2311.15539](https://arxiv.org/pdf/2311.15539).
+- **Aranha, C. et al. incl. Dorigo, M. & Stützle, T. (2021)**. *Metaphor-based metaheuristics, a call for action: the elephant in the room*. Swarm Intelligence. [Springer](https://link.springer.com/10.1007/s11721-021-00202-9).
+- **Taxonomía metaphor-free de 145 metaheurísticas (2025)**. Springer. [Artículo](https://link.springer.com/article/10.1007/s10462-025-11456-8).
+- *Bio-Inspired Algorithms Used in Medical Image Processing* (2024). IGI Global. [Capítulo](https://irma-international.org/chapter/bio-inspired-algorithms-used-in-medical-image-processing/338083/).
+- *Bio-inspired algorithms in machine learning and deep learning for disease detection* (2025). CRC Press. [Publicación](https://research.ajman.ac.ae/en/publications/bio-inspired-algorithms-in-machine-learning-and-deep-learning-for/).
+- *O que são algoritmos bioinspirados?* — Panorama de aplicaciones en redes, seguridad, robótica, ingeniería biomédica y sistemas de energía. [eCycle](https://www.ecycle.com.br/algoritmos-bioinspirados/amp/).
+- **Márquez Vera, M. A. (2023)**. *Inteligencia de enjambre: de los sistemas naturales a los artificiales*. Revista Digital Universitaria, 24(1). [DOI](https://doi.org/10.22201/cuaieed.16076079e.2023.24.1.11).
 
 ---
 
-<div style="text-align:center; margin-top: 2em;">
+<!--
+
+Ruta sugerida: /assets/img/posts/abejas.jpg
+-->## <div style="text-align:center; margin-top: 2em;">
 
 🧬 + 💻 = ⚡
 
