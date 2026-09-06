@@ -17,8 +17,6 @@ mermaid: false
 He estado aprendiendo últimamente un punto de convergencia que no conocía entre la informática y la biología: **los algoritmos bioinspirados**.
 
 
- /assets/img/posts/ants.jpg
--->
 ![Hormigas siguiendo un rastro de feromona](/assets/img/posts/ants.jpg)
 _Sin GPS, sin jefa, sin junta de Zoom — y aun así encuentran la ruta más corta._
 
@@ -28,7 +26,7 @@ Esa capacidad de un montón de cosas simples, sin inteligencia individual de sob
 
 ---
 
-## 🕰️ Un poco de historia
+## Un poco de historia
 
 La idea es más vieja que las computadoras mismas. Ya en la década de 1940, incluso antes de que existieran máquinas capaces de ejecutarlas, había ideas de usar los principios darwinianos para automatizar la resolución de problemas. Fue Alan Turing quien, en 1948, acuñó la frase *"búsqueda genética o evolutiva"* — la primera vez que alguien conectó explícitamente evolución biológica con cómputo. En los años 50, Alex Fraser publicó una serie de artículos sobre simulación de selección artificial, y en 1962 Bremermann llevó a cabo los primeros experimentos computacionales de "optimización por evolución y recombinación".
 
@@ -42,7 +40,7 @@ Durante quince años cada quien jaló por su lado, hasta que en los 90 la academ
 
 ---
 
-## ⚙️ Ok pero, ¿cómo funcionan?
+## Ok pero, ¿cómo funcionan?
 
 Empecemos definiendo un algoritmo: es una serie de pasos, solo eso, algo así como una receta de cocina. Y **optimizar**, para que no te espantes con la palabra, quiere decir nada más esto: de todas las soluciones posibles a un problema, encontrar la mejor (o una lo suficientemente buena) sin tener que probarlas todas una por una, porque probarlas todas nos llevaría más tiempo del que le queda al universo antes de apagarse.
 
@@ -88,13 +86,10 @@ El chiste —el verdadero, el único secreto detrás de todos estos algoritmos c
 
 Porque la naturaleza ya hizo el trabajo sucio por nosotros, gratis, durante miles de millones de años. Una bandada de pájaros vuela en formación sin que ningún pájaro sea el líder supremo: cada uno nomás ajusta su posición viendo a sus vecinos más cercanos, y de esa ley simple emerge algo tan elegante como una bandada completa moviéndose como si fuera un solo organismo.
 
-<!--
-Estorninos en Gretna.
+![Bandada de estorninos en murmuración](/assets/img/posts/bandada-aves.jpg)
 Crédito: fotografía tomada por Walter Baxter. Licencia Creative Commons Attribution-Share Alike 2.0 Gereric.
 Los algoritmos bioinspirados permiten modelar comportamientos gregarios complejos para tareas de optimización (Márquez Vera, 2023).
 Ruta sugerida: /assets/img/posts/aves.jpg
--->
-![Bandada de estorninos en murmuración](/assets/img/posts/bandada-aves.jpg)
 _De reglas individuales estúpidamente simples, emerge algo colectivamente inteligente._
 
 Ese es el truco: de reglas individuales estúpidamente simples emergen soluciones colectivas sorprendentemente inteligentes. Ni la hormiga ni el pájaro entienden el problema completo. Nadie ahí arriba tiene el plan maestro. Y aun así, entre todos, lo resuelven mejor que si un solo cerebro superpoderoso lo intentara resolver solo.
@@ -132,10 +127,10 @@ Imitan procesos, hábitos o dinámicas sociales humanas. Por ejemplo, el **Deep 
 
 Si quitamos el folclor, la herramienta funciona, y funciona muy cabrón:
 
-- 🩺 **Imágenes médicas** — donde el ruido, las sombras y la variabilidad biológica vuelven locos a los métodos tradicionales, las metaheurísticas bioinspiradas limpian, segmentan y extraen características donde el ojo humano ya se cansó de buscar.
-- 🤖 **Machine Learning y Deep Learning** — optimizando hiperparámetros para afinar diagnósticos de cáncer, cardiopatías o diabetes.
-- 🏗️ **Ingeniería y logística** — resolviendo broncas de red eléctrica, turbulencias, diseño de estructuras o trazando rutas de transporte para no tirar diésel a lo pendejo.
-- 🧬 **Bioinformática** — estimando parámetros en redes bioquímicas y modelando sistemas vivos.
+-  **Imágenes médicas** — donde el ruido, las sombras y la variabilidad biológica vuelven locos a los métodos tradicionales, las metaheurísticas bioinspiradas limpian, segmentan y extraen características donde el ojo humano ya se cansó de buscar.
+-  **Machine Learning y Deep Learning** — optimizando hiperparámetros para afinar diagnósticos de cáncer, cardiopatías o diabetes.
+-  **Ingeniería y logística** — resolviendo broncas de red eléctrica, turbulencias, diseño de estructuras o trazando rutas de transporte para no tirar diésel a lo pendejo.
+-  **Bioinformática** — estimando parámetros en redes bioquímicas y modelando sistemas vivos.
 
 ---
 
@@ -148,8 +143,7 @@ Pero no todo es miel sobre hojuelas. A partir del año 2000, el campo entró en 
 Sugerencia: collage tipo "bestiario" — lobo, ballena, luciérnaga, murciélago, gota de agua, ilustrado o en formato meme académico
 Ruta sugerida: /assets/img/posts/bestiario-algoritmos.jpg
 -->
-![El "bestiario" de algoritmos bioinspirados](/assets/img/posts/bestiario-algoritmos.jpg)
-_Ojo de lobo, aleta de ballena y hasta gotas de agua con perfil de redes sociales._
+
 
 Y aquí hay que meter el dedo en la llaga: estamos en el auge del *publish or perish*, donde la raza publica porque se puede, no porque aporte.
 
