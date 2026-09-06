@@ -57,7 +57,7 @@ Aquí es donde entra la parte hermosa del asunto: en vez de buscar la solución 
 <!--
 Ruta sugerida: /assets/img/posts/abejas.jpg
 -->
-![La naturaleza como maestra de optimización](/assets/images/abejas.jpg)
+![La naturaleza como maestra de optimización](/assets/images/abejas.png)
 _3,800 millones de años de experiencia en optimización, sin cobrar regalías._
 
 Y aquí es donde la naturaleza, que lleva probando cosas desde hace 3,800 millones de años sin parar ni un segundo a cobrar regalías, se vuelve la maestra más barata y más sabia que existe. Porque resulta que la evolución, las colonias de hormigas, los enjambres de abejas, las bandadas de pájaros e incluso las bacterias más humildes del planeta ya llevan resolviendo, sin saberlo, el mismo problema al que se enfrenta cualquier algoritmo de optimización: cómo buscar lo suficiente para no quedarte estancado, pero sin perder tanto tiempo buscando que nunca aproveches lo que ya encontraste.
