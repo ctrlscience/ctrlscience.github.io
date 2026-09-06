@@ -1,6 +1,6 @@
 ---
 title: "Algoritmos bioinspirados: 3,800 millones de años de evolución comprimidos en un ciclo for"
-date: 2026-09-06 
+date: 2026-09-06
 categories: [Ciencia, Computación]
 tags: [algoritmos bioinspirados, biología, inteligencia artificial, divulgación]
 image:
@@ -15,7 +15,6 @@ mermaid: false
 {: .prompt-tip }
 
 He estado aprendiendo últimamente un punto de convergencia que no conocía entre la informática y la biología: **los algoritmos bioinspirados**.
-
 
 ![Hormigas siguiendo un rastro de feromona](/assets/img/posts/ants.jpg)
 _Sin GPS, sin jefa, sin junta de Zoom — y aun así encuentran la ruta más corta._
@@ -56,7 +55,6 @@ A esos problemas la ciencia de la computación les puso un nombre elegante y ate
 Aquí es donde entra la parte hermosa del asunto: en vez de buscar la solución perfecta (que probablemente no existe o tardaríamos siglos en encontrar), buscamos una solución suficientemente buena, en un tiempo razonable, usando ensayo y error inteligente. A ese tipo de estrategias se les llama **metaheurísticas**, y no, no hay garantía de que encuentren la mejor respuesta posible. Ni siquiera sabemos del todo por qué funcionan cuando funcionan. Lo que sí sabemos es que casi siempre funcionan lo suficientemente bien, y eso, en un mundo de problemas imposibles, ya es un chingo.
 
 <!--
-
 Ruta sugerida: /assets/img/posts/abejas.jpg
 -->
 ![La naturaleza como maestra de optimización](/assets/img/posts/abejas.jpg)
@@ -123,18 +121,18 @@ Imitan procesos, hábitos o dinámicas sociales humanas. Por ejemplo, el **Deep 
 
 ---
 
-##  Dónde jala esto en la vida real
+## Dónde jala esto en la vida real
 
 Si quitamos el folclor, la herramienta funciona, y funciona muy cabrón:
 
--  **Imágenes médicas** — donde el ruido, las sombras y la variabilidad biológica vuelven locos a los métodos tradicionales, las metaheurísticas bioinspiradas limpian, segmentan y extraen características donde el ojo humano ya se cansó de buscar.
--  **Machine Learning y Deep Learning** — optimizando hiperparámetros para afinar diagnósticos de cáncer, cardiopatías o diabetes.
--  **Ingeniería y logística** — resolviendo broncas de red eléctrica, turbulencias, diseño de estructuras o trazando rutas de transporte para no tirar diésel a lo pendejo.
--  **Bioinformática** — estimando parámetros en redes bioquímicas y modelando sistemas vivos.
+- **Imágenes médicas** — donde el ruido, las sombras y la variabilidad biológica vuelven locos a los métodos tradicionales, las metaheurísticas bioinspiradas limpian, segmentan y extraen características donde el ojo humano ya se cansó de buscar.
+- **Machine Learning y Deep Learning** — optimizando hiperparámetros para afinar diagnósticos de cáncer, cardiopatías o diabetes.
+- **Ingeniería y logística** — resolviendo broncas de red eléctrica, turbulencias, diseño de estructuras o trazando rutas de transporte para no tirar diésel a lo pendejo.
+- **Bioinformática** — estimando parámetros en redes bioquímicas y modelando sistemas vivos.
 
 ---
 
-##  El dilema: el zoológico de vanidades y el "boom" del paper fácil
+## El dilema: el zoológico de vanidades y el "boom" del paper fácil
 
 Pero no todo es miel sobre hojuelas. A partir del año 2000, el campo entró en una fase de crecimiento descontrolado y francamente ridículo. Hoy existen más de 540 metaheurísticas registradas y catálogos que parecen el libro de monstruos de Harry Potter, con más de 200 variantes solo en la rama bioinspirada.
 
@@ -143,7 +141,6 @@ Pero no todo es miel sobre hojuelas. A partir del año 2000, el campo entró en 
 Sugerencia: collage tipo "bestiario" — lobo, ballena, luciérnaga, murciélago, gota de agua, ilustrado o en formato meme académico
 Ruta sugerida: /assets/img/posts/bestiario-algoritmos.jpg
 -->
-
 
 Y aquí hay que meter el dedo en la llaga: estamos en el auge del *publish or perish*, donde la raza publica porque se puede, no porque aporte.
 
@@ -169,8 +166,6 @@ Sí, la literatura ya demostró hasta el cansancio que estamos atascados en una 
 
 ## Para seguir leyendo (fuentes)
 
-## Para seguir leyendo (fuentes)
-
 - **Yang, X.-S.** — Sobre metaheurísticas, problemas NP-duros y el par exploración/explotación como componentes centrales de todo algoritmo metaheurístico (Blum y Roli, 2003).
 - **Kennedy, J. & Eberhart, R. (1995)**. *Particle Swarm Optimization* — El enjambre de partículas inspirado en bandadas de aves.
 - **Slowik, A. & Kwasnicka, H. et al.** — *Intelligent Computing: The Latest Advances, Challenges and Future*, sobre Turing (1948) y los tres orígenes de la computación evolutiva. [arXiv:2211.11281](https://arxiv.org/pdf/2211.11281).
@@ -190,10 +185,7 @@ Sí, la literatura ya demostró hasta el cansancio que estamos atascados en una 
 
 ---
 
-<!--
-
-Ruta sugerida: /assets/img/posts/abejas.jpg
--->## <div style="text-align:center; margin-top: 2em;">
+<div style="text-align:center; margin-top: 2em;">
 
 🧬 + 💻 = ⚡
 
