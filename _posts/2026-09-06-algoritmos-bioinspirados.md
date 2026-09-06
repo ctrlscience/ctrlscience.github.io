@@ -58,6 +58,8 @@ Aquí es donde entra la parte hermosa del asunto: en vez de buscar la solución 
 Ruta sugerida: /assets/img/posts/abejas.jpg
 -->
 ![La naturaleza como maestra de optimización](/assets/images/abejas.png)
+
+
 _3,800 millones de años de experiencia en optimización, sin cobrar regalías._
 
 Y aquí es donde la naturaleza, que lleva probando cosas desde hace 3,800 millones de años sin parar ni un segundo a cobrar regalías, se vuelve la maestra más barata y más sabia que existe. Porque resulta que la evolución, las colonias de hormigas, los enjambres de abejas, las bandadas de pájaros e incluso las bacterias más humildes del planeta ya llevan resolviendo, sin saberlo, el mismo problema al que se enfrenta cualquier algoritmo de optimización: cómo buscar lo suficiente para no quedarte estancado, pero sin perder tanto tiempo buscando que nunca aproveches lo que ya encontraste.
@@ -85,6 +87,8 @@ El chiste —el verdadero, el único secreto detrás de todos estos algoritmos c
 Porque la naturaleza ya hizo el trabajo sucio por nosotros, gratis, durante miles de millones de años. Una bandada de pájaros vuela en formación sin que ningún pájaro sea el líder supremo: cada uno nomás ajusta su posición viendo a sus vecinos más cercanos, y de esa ley simple emerge algo tan elegante como una bandada completa moviéndose como si fuera un solo organismo.
 
 ![Bandada de estorninos en murmuración](/assets/images/aves.jpeg)
+
+
 Crédito: fotografía tomada por Walter Baxter. Licencia Creative Commons Attribution-Share Alike 2.0 Gereric.
 Los algoritmos bioinspirados permiten modelar comportamientos gregarios complejos para tareas de optimización (Márquez Vera, 2023).
 Ruta sugerida: /assets/img/posts/aves.jpg
