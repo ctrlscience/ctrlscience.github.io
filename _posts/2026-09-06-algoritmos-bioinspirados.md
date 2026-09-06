@@ -4,7 +4,7 @@ date: 2026-09-06
 categories: [Ciencia, Computación]
 tags: [algoritmos bioinspirados, biología, inteligencia artificial, divulgación]
 image:
-  path: /assets/img/posts/banner.jpg
+  path: /assets/images/posts/banner.jpg
 toc: true
 comments: true
 math: false
@@ -16,7 +16,7 @@ mermaid: false
 
 He estado aprendiendo últimamente un punto de convergencia que no conocía entre la informática y la biología: **los algoritmos bioinspirados**.
 
-![Hormigas siguiendo un rastro de feromona](/assets/img/posts/ants.jpg)
+![Hormigas siguiendo un rastro de feromona](/assets/images/posts/ants.jpg)
 _Sin GPS, sin jefa, sin junta de Zoom — y aun así encuentran la ruta más corta._
 
 Imagínate una hormiga. Una nomás, saliendo del hormiguero sin GPS, sin Google Maps, sin ni siquiera una idea clara de a dónde chingados va. Esa hormiga no sabe nada del universo, no sabe que existen las estrellas, no sabe ni que existe ella misma como concepto. Y aun así, en cuestión de minutos, ella y sus miles de hermanas van a encontrar la ruta más corta entre el hormiguero y la migaja de pan que se le cayó a alguien en el parque. Sin jefe. Sin plan. Sin junta de Zoom para decidir la estrategia.
@@ -57,7 +57,7 @@ Aquí es donde entra la parte hermosa del asunto: en vez de buscar la solución 
 <!--
 Ruta sugerida: /assets/img/posts/abejas.jpg
 -->
-![La naturaleza como maestra de optimización](/assets/img/posts/abejas.jpg)
+![La naturaleza como maestra de optimización](/assets/images/posts/abejas.jpg)
 _3,800 millones de años de experiencia en optimización, sin cobrar regalías._
 
 Y aquí es donde la naturaleza, que lleva probando cosas desde hace 3,800 millones de años sin parar ni un segundo a cobrar regalías, se vuelve la maestra más barata y más sabia que existe. Porque resulta que la evolución, las colonias de hormigas, los enjambres de abejas, las bandadas de pájaros e incluso las bacterias más humildes del planeta ya llevan resolviendo, sin saberlo, el mismo problema al que se enfrenta cualquier algoritmo de optimización: cómo buscar lo suficiente para no quedarte estancado, pero sin perder tanto tiempo buscando que nunca aproveches lo que ya encontraste.
@@ -84,7 +84,7 @@ El chiste —el verdadero, el único secreto detrás de todos estos algoritmos c
 
 Porque la naturaleza ya hizo el trabajo sucio por nosotros, gratis, durante miles de millones de años. Una bandada de pájaros vuela en formación sin que ningún pájaro sea el líder supremo: cada uno nomás ajusta su posición viendo a sus vecinos más cercanos, y de esa ley simple emerge algo tan elegante como una bandada completa moviéndose como si fuera un solo organismo.
 
-![Bandada de estorninos en murmuración](/assets/img/posts/bandada-aves.jpg)
+![Bandada de estorninos en murmuración](/assets/images/posts/bandada-aves.jpg)
 Crédito: fotografía tomada por Walter Baxter. Licencia Creative Commons Attribution-Share Alike 2.0 Gereric.
 Los algoritmos bioinspirados permiten modelar comportamientos gregarios complejos para tareas de optimización (Márquez Vera, 2023).
 Ruta sugerida: /assets/img/posts/aves.jpg
