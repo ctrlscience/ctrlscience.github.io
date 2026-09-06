@@ -84,7 +84,7 @@ El chiste —el verdadero, el único secreto detrás de todos estos algoritmos c
 
 Porque la naturaleza ya hizo el trabajo sucio por nosotros, gratis, durante miles de millones de años. Una bandada de pájaros vuela en formación sin que ningún pájaro sea el líder supremo: cada uno nomás ajusta su posición viendo a sus vecinos más cercanos, y de esa ley simple emerge algo tan elegante como una bandada completa moviéndose como si fuera un solo organismo.
 
-![Bandada de estorninos en murmuración](/assets/images/bandada-aves.jpg)
+![Bandada de estorninos en murmuración](/assets/images/aves.jpg)
 Crédito: fotografía tomada por Walter Baxter. Licencia Creative Commons Attribution-Share Alike 2.0 Gereric.
 Los algoritmos bioinspirados permiten modelar comportamientos gregarios complejos para tareas de optimización (Márquez Vera, 2023).
 Ruta sugerida: /assets/img/posts/aves.jpg
