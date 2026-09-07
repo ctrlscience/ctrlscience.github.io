@@ -91,8 +91,6 @@ Porque la naturaleza ya hizo el trabajo sucio por nosotros, gratis, durante mile
 
 Crédito: fotografía tomada por Walter Baxter. Licencia Creative Commons Attribution-Share Alike 2.0 Gereric.
 Los algoritmos bioinspirados permiten modelar comportamientos gregarios complejos para tareas de optimización (Márquez Vera, 2023).
-Ruta sugerida: /assets/img/posts/aves.jpg
-_De reglas individuales estúpidamente simples, emerge algo colectivamente inteligente._
 
 Ese es el truco: de reglas individuales estúpidamente simples emergen soluciones colectivas sorprendentemente inteligentes. Ni la hormiga ni el pájaro entienden el problema completo. Nadie ahí arriba tiene el plan maestro. Y aun así, entre todos, lo resuelven mejor que si un solo cerebro superpoderoso lo intentara resolver solo.
 
