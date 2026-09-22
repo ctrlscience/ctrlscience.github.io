@@ -14,45 +14,48 @@ mermaid: false
 > Los algoritmos bioinspirados son, básicamente, optimizar soluciones que ya existen, pero mejoradas, usando como inspiración a la naturaleza.
 {: .prompt-tip }
 
-He estado aprendiendo últimamente un punto de convergencia que no conocía entre la informática y la biología: **los algoritmos bioinspirados**.
+Hola simbiontes. Estos meses he estado aprendiendo sobre un punto de convergencia que no conocía entre la informática y la biología: **los algoritmos bioinspirados**.
 
 ![Hormigas siguiendo un rastro de feromona](/assets/images/ants.jpg)
-_Sin GPS, sin jefa, sin junta de Zoom — y aun así encuentran la ruta más corta._
 
 Imagínate una hormiga. Una nomás, saliendo del hormiguero sin GPS, sin Google Maps, sin ni siquiera una idea clara de a dónde chingados va. Esa hormiga no sabe nada del universo, no sabe que existen las estrellas, no sabe ni que existe ella misma como concepto. Y aun así, en cuestión de minutos, ella y sus miles de hermanas van a encontrar la ruta más corta entre el hormiguero y la migaja de pan que se le cayó a alguien en el parque. Sin jefe. Sin plan. Sin junta de Zoom para decidir la estrategia.
 
-Esa capacidad de un montón de cosas simples, sin inteligencia individual de sobra, para resolver problemas complicadísimos nomás por seguir unas reglas sencillas y repetirlas un chingo de veces, es, en el fondo, todo lo que necesitas entender para saber qué es un algoritmo bioinspirado. Lo demás son detalles.
+Esa capacidad de un montón de cosas simples para resolver problemas complicadísimos solo al seguir unas reglas sencillas y repetirlas un chingo de veces, es, en el fondo, todo lo que necesitas entender para saber qué es un algoritmo bioinspirado. Lo demás son detalles.
 
 ---
 
 ## Un poco de historia
 
-La idea es más vieja que las computadoras mismas. Ya en la década de 1940, incluso antes de que existieran máquinas capaces de ejecutarlas, había ideas de usar los principios darwinianos para automatizar la resolución de problemas. Fue Alan Turing quien, en 1948, acuñó la frase *"búsqueda genética o evolutiva"* — la primera vez que alguien conectó explícitamente evolución biológica con cómputo. En los años 50, Alex Fraser publicó una serie de artículos sobre simulación de selección artificial, y en 1962 Bremermann llevó a cabo los primeros experimentos computacionales de "optimización por evolución y recombinación".
+La idea es más vieja que las computadoras mismas. En la década de 1940, incluso antes de que existieran máquinas capaces de ejecutarlas, había ideas de usar los principios darwinianos para automatizar la resolución de problemas. Fue Alan Turing quien, en 1948, acuñó la frase *"búsqueda genética o evolutiva"*, he aquí la primera vez que alguien conectó explícitamente evolución biológica con cómputo. En los años 50, Alex Fraser publicó una serie de artículos sobre simulación de selección artificial, y en 1962 Bremermann llevó a cabo los primeros experimentos computacionales de "optimización por evolución y recombinación".
 
-En la década de los 60 pasó algo bien curioso: **tres grupos distintos inventaron la misma vaina al mismo tiempo**, en tres esquinas del mundo y sin conocerse:
+En la década de los 60 pasó algo bien curioso: **tres grupos distintos inventaron lo mismo al mismo tiempo**, en tres esquinas del mundo y sin conocerse:
 
-1. 🇺🇸 En **Michigan**, John Holland parió los algoritmos genéticos.
+1. 🇺🇸 En **Michigan**, John Holland creó los algoritmos genéticos.
 2. 🇺🇸 En **San Diego**, Lawrence Fogel investigó la programación evolutiva mutando máquinas de estados finitos.
 3. 🇩🇪 En **Berlín**, dos estudiantes de ingeniería, Rechenberg y Schwefel, crearon las estrategias evolutivas para optimizar toberas de aviones a chorro en un túnel de viento.
 
-Durante quince años cada quien jaló por su lado, hasta que en los 90 la academia se dio cuenta de que todos hablaban el mismo idioma con diferente acento, y lo bautizaron como **computación evolutiva**.
+Durante quince años estos grupos trabajaban por su lado, hasta que en los 90 la academia se dio cuenta de que todos hablaban el mismo idioma con diferente acento, y lo bautizaron como **computación evolutiva**.
 
 ---
 
 ## Ok pero, ¿cómo funcionan?
 
-Empecemos definiendo un algoritmo: es una serie de pasos, solo eso, algo así como una receta de cocina. Y **optimizar**, para que no te espantes con la palabra, quiere decir nada más esto: de todas las soluciones posibles a un problema, encontrar la mejor (o una lo suficientemente buena) sin tener que probarlas todas una por una, porque probarlas todas nos llevaría más tiempo del que le queda al universo antes de apagarse.
+Empecemos por el principio: 
+Un **algoritmo** es una serie de pasos, solo eso, algo así como una receta de cocina. Y **optimizar** quiere decir que, de todas las soluciones posibles a un problema, vamos a encontrar la mejor (o una lo suficientemente buena) sin tener que probarlas todas una por una. Porque probarlas todas nos llevaría más tiempo del que le queda al universo antes de apagarse.
+
+Entonces los algoritmos bioinspirados funcionan como una optimización de soluciones preexistentes. 
 
 Piénsalo así. Si yo te digo "encuéntrame el camino más corto entre tu casa y la tienda de la esquina, entre 200 rutas posibles", tú agarras y las revisas todas, tardas cinco minutos y ya. Pero si te digo "encuéntrame la ruta más corta que visite las 200 tiendas de toda tu colonia sin repetir ninguna", ahí ya no alcanza ni la paciencia ni la voluntad.
 
 > El número de combinaciones posibles crece tan rápido que ni todas las computadoras del planeta juntas, corriendo desde el Big Bang, terminarían de revisarlas.
 {: .prompt-warning }
 
-A esos problemas la ciencia de la computación les puso un nombre elegante y aterrador: **problemas NP-duros** (NP significa *Polinomio No Determinista*, *Non-deterministic Polynomial*). Y aquí viene lo incómodo: la mayoría de los problemas del mundo real —acomodar rutas de reparto, diseñar una red eléctrica, encontrarle la forma a un parásito escondido en una gota de sangre— son, sin excepción, de este tipo de problemas donde no existe un método perfecto ni garantizado para resolverlos rápido.
+A esos problemas la ciencia de la computación les puso un nombre elegante y aterrador: **problemas NP-duros** (NP significa *Polinomio No Determinista*, *Non-deterministic Polynomial*). Y aquí viene lo incómodo: la mayoría de los problemas del mundo real 
+8acomodar rutas de reparto, diseñar una red eléctrica, encontrarle la forma a un parásito escondido en una gota de sangre) son, sin excepción, de este tipo: problemas donde no existe un método perfecto ni garantizado para resolverlos rápido.
 
 ### Entonces, si no hay método perfecto, ¿qué hacemos?
 
-Aquí es donde entra la parte hermosa del asunto: en vez de buscar la solución perfecta (que probablemente no existe o tardaríamos siglos en encontrar), buscamos una solución suficientemente buena, en un tiempo razonable, usando ensayo y error inteligente. A ese tipo de estrategias se les llama **metaheurísticas**, y no, no hay garantía de que encuentren la mejor respuesta posible. Ni siquiera sabemos del todo por qué funcionan cuando funcionan. Lo que sí sabemos es que casi siempre funcionan lo suficientemente bien, y eso, en un mundo de problemas imposibles, ya es un chingo.
+Aquí es donde entra la parte interesante del asunto: en vez de buscar la solución perfecta (que probablemente no existe o tardaríamos siglos en encontrar), buscamos una solución suficientemente buena, en un tiempo razonable, usando ensayo y error inteligente. A ese tipo de estrategias se les llama **metaheurísticas**, y no, no hay garantía de que encuentren la mejor respuesta posible. Ni siquiera sabemos del todo por qué funcionan cuando funcionan. Lo que sí sabemos es que casi siempre funcionan lo suficientemente bien, y eso, en un mundo de problemas imposibles, ya es un chingo.
 
 <!--
 Ruta sugerida: /assets/img/posts/abejas.jpg
@@ -60,15 +63,15 @@ Ruta sugerida: /assets/img/posts/abejas.jpg
 ![La naturaleza como maestra de optimización](/assets/images/abejas.png)
 
 
-_3,800 millones de años de experiencia en optimización, sin cobrar regalías._
+_3,800 millones de años de experiencia en optimización._
 
-Y aquí es donde la naturaleza, que lleva probando cosas desde hace 3,800 millones de años sin parar ni un segundo a cobrar regalías, se vuelve la maestra más barata y más sabia que existe. Porque resulta que la evolución, las colonias de hormigas, los enjambres de abejas, las bandadas de pájaros e incluso las bacterias más humildes del planeta ya llevan resolviendo, sin saberlo, el mismo problema al que se enfrenta cualquier algoritmo de optimización: cómo buscar lo suficiente para no quedarte estancado, pero sin perder tanto tiempo buscando que nunca aproveches lo que ya encontraste.
+Y aquí es donde la naturaleza, que lleva probando cosas desde hace 3,800 millones de años, se vuelve la maestra más barata y más sabia que existe. Porque resulta que la evolución, las colonias de hormigas, los enjambres de abejas, las bandadas de pájaros e incluso las bacterias más humildes del planeta ya llevan resolviendo, sin saberlo, el mismo problema al que se enfrenta cualquier algoritmo de optimización: cómo buscar lo suficiente para no quedarte estancado, pero sin perder tanto tiempo buscando que nunca aproveches lo que ya encontraste.
 
 ---
 
 ## El corazón de todo: buscar cosas nuevas vs. aprovechar lo que ya tienes
 
-Todo algoritmo bioinspirado —sin excepción— vive atrapado en la misma tensión existencial que cualquier persona indecisa un viernes por la noche: ¿me quedo en el antro que ya conozco porque ahí la está pasando bien, o me arriesgo a ir al que no conozco porque a lo mejor está mejor?
+Todo algoritmo bioinspirado vive atrapado en la misma tensión existencial que cualquier persona indecisa un viernes por la noche: ¿me quedo en el antro que ya conozco porque ahí la está pasando bien, o me arriesgo a ir al que no conozco porque a lo mejor está mejor?
 
 A eso, en la jerga de la optimización, se le llama **exploración y explotación**:
 
