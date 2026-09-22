@@ -22,7 +22,7 @@ Y también nace de una necesidad personal: intentar entender el mundo.
 
 Estudié microbiología porque quería comprender qué ocurre detrás de las cosas que no podemos ver. Pensaba que, mientras más aprendiera, más cerca estaría de entenderlo todo.
 
-Con el tiempo descubrí algo bastante incómodo —y mucho más interesante—:
+Con el tiempo descubrí algo bastante incómodo (y mucho más interesante):
 
 **Cuanto más aprendemos, más grande se vuelve aquello que ignoramos.**
 
@@ -42,35 +42,25 @@ Ni un organismo.
 
 Y nosotros tampoco.
 
-**Somos una multitud.**
-
-Estamos hechos de interacciones.
+**Estamos hechos de interacciones**.
 
 De moléculas que alguna vez pertenecieron a estrellas. De microorganismos que viven sobre y dentro de nosotros. De información que heredamos, modificamos y transmitimos. De personas que nos enseñaron algo. De libros que cambiaron una pregunta por otra.
 
 Quizá la palabra que mejor describe nuestra existencia no sea *individuo*, sino **simbiosis**.
 
-Vivimos conectados incluso cuando imaginamos estar solos.
+**Vivimos conectados incluso cuando imaginamos estar solos.**
 
 ---
 
-Tal vez por eso terminé acercándome a la programación.
+Tal vez por eso terminé acercándome a la programación. Fue una nueva forma de pensar. 
 
-La programación me enseñó otra forma de pensar.
-
-Una computadora no entiende nuestras intuiciones. Necesita instrucciones. Y cuando algo sale mal, no podemos convencerla de que "más o menos" era lo que queríamos decir.
+Una computadora no entiende de intuiciones. Necesita instrucciones. Y cuando algo sale mal, no podemos convencerla de que "más o menos" era lo que queríamos decir.
 
 Hay que encontrar el error.
 
 Hay que descubrir dónde comenzó.
 
-La programación fue mi segundo amor y, probablemente, uno de mis valles de lágrimas más prolongados.
-
-Pero también se convirtió en una herramienta para hacer preguntas.
-
-La frontera entre ciencia y código comenzó a parecerme menos una frontera y más una zona de encuentro.
-
-Un lugar donde dos formas distintas de curiosidad pueden trabajar juntas.
+La programación fue mi segundo amor y, probablemente, uno de mis valles de lágrimas más prolongados.Pero también se convirtió en una herramienta para hacer preguntas.La frontera entre ciencia y código comenzó a parecerme menos una frontera y más una zona de encuentro. Un lugar donde dos formas distintas de curiosidad pueden trabajar juntas.
 
 Ahora estudio una maestría en Ciencias de la Computación mientras intento, como casi todos, entender qué estoy haciendo aquí.
 
