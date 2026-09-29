@@ -38,13 +38,20 @@ order: 4
 
 Una de las conexiones dentro de la niebla de acontecimientos puede encontrarse en algo tan cotidiano como la sangre. A simple vista parece apenas una gota. Bajo el microscopio, es un  paisaje lleno de formas, tamaños, colores y patrones. Cada célula tiene una historia y, muchas veces, aprender a leerla comienza simplemente por aprender a mirar. 
 
-Podemos empezar conectando la sangre como el líquido vital de muchos organismos. Históricamente ha sido utilizada para representar la vida, la muerte, el dolor o la protesta social. En este espacio haremos un recorrido por lo que nos puede decir la sangre según su forma, color, espacios, especie, etc.  
+Podemos empezar conectando la sangre como el líquido vital de muchos organismos. Históricamente ha sido utilizada para representar la vida, la muerte, el dolor o la protesta social. Pero la sangre también puede ser leída de otra manera: como un registro diminuto de lo que ocurre dentro de un organismo.
+
+Su color, sus formas, sus espacios y sus células pueden contarnos historias. Y esas historias cambian entre especies, entre individuos y entre estados de salud.
+
+En este espacio nos asomaremos a ese mundo microscópico para descubrir qué puede decirnos una gota de sangre cuando aprendemos a observarla.
 
 <div style="text-align: center;">
 
 <img src="assets/images/herman.png" width="180" style="margin: 10px;">
-<img src="assets/images/teresa.webp" width="180" style="margin: 10px;">
 
+<img src="assets/images/teresa.webp" width="180" style="margin: 10px;">
+<small>
+<a href="https://www.fundacionunam.org.mx/rostros/la-artista-teresa-margolles-entre-el-narcotrafico-y-la-injusticia-social/">Teresa Margolles: La sangre, las morgues, el arte y la guerra</a>
+</small>
 </div>
 
 
