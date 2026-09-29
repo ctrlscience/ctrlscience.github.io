@@ -36,17 +36,18 @@ order: 4
 
 </div>
 
-Una de las conexiones dentro de la niebla de acontecimientos puede encontrarse en algo tan cotidiano como la sangre. A simple vista parece apenas una gota. Bajo el microscopio, es un  paisaje lleno de formas, tamaños, colores y patrones. Cada célula tiene una historia y, muchas veces, aprender a leerla comienza simplemente por aprender a mirar. 
+Una de las conexiones dentro de la niebla de acontecimientos puede encontrarse en algo tan cotidiano como la sangre. A simple vista parece apenas una gota. Bajo el microscopio, sin embargo, se transforma en un paisaje lleno de formas, tamaños, colores y patrones. Cada célula forma parte de una historia y, muchas veces, aprender a interpretarla comienza simplemente por aprender a mirar.
 
-Podemos empezar conectando la sangre como el líquido vital de muchos organismos. Históricamente ha sido utilizada para representar la vida, la muerte, el dolor o la protesta social. Pero la sangre también puede ser leída de otra manera: como un registro diminuto de lo que ocurre dentro de un organismo.
+Podemos empezar conectando la sangre como el líquido vital que recorre el cuerpo de muchos organismos, pero su significado va mucho más allá de la biología. A lo largo de la historia, ha sido utilizada para representar la vida, la muerte, el dolor, la violencia y la protesta social. Artistas como Hermann Nitsch y Teresa Margolles han recurrido a ella para explorar precisamente algunas de estas ideas: nuestra relación con el cuerpo, la muerte y aquello que preferimos no mirar.
 
-Su color, sus formas, sus espacios y sus células pueden contarnos historias. Y esas historias cambian entre especies, entre individuos y entre estados de salud.
+Pero la sangre también puede leerse de otra manera: como un registro diminuto de lo que ocurre dentro de un organismo. Su color, sus formas, sus espacios y sus células pueden contarnos historias. Y esas historias cambian entre especies, entre individuos y entre distintos estados fisiológicos o patológicos.
 
 En este espacio nos asomaremos a ese mundo microscópico para descubrir qué puede decirnos una gota de sangre cuando aprendemos a observarla.
 
 <div style="text-align: center;">
 
 <img src="assets/images/herman.png" width="180" style="margin: 10px;">
+<a href="https://sammlung.staedelmuseum.de/en/person/nitsch-hermann?gad_source=1&gad_campaignid=22332317935&gbraid=0AAAAADGswQhSXdToIqIhHD5FL3tr5SEiF&gclid=EAIaIQobChMI6f6P_fCUlwMVgiZECB1YLzLLEAAYASAAEgIuBvD_BwE">Hermann Nitsch: Empleaba sangre para romper tabúes y confrontar al espectador con su propia mortalidad y naturaleza física.</a>
 
 <img src="assets/images/teresa.webp" width="180" style="margin: 10px;">
 <small>
