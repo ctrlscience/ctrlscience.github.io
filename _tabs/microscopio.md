@@ -4,20 +4,48 @@ icon: fas fa-microscope
 order: 4
 ---
 
-# 🔬 Al microscopio
+# 🔬Un glóbulo rojo no siempre es un glóbulo rojo
 
-**Desde un comienzo han surgido y siguen surgiendo formas infinitas, las más bellas y maravillosas** 
--Charles Darwin. El origen de las especies (1859).
+<div class="epigrafe">
 
-**Hay una niebla de acontecimientos y, de repente, ves una conexión**
--Victor Weisskopf. 
+<div class="cita">
 
-Posiblemente una de esas conexiones pueda encontrarse en algo tan cotidiano como la sangre. A simple vista parece apenas una gota. Bajo el microscopio, es un 
-paisaje lleno de formas, tamaños, colores y patrones. Cada célula tiene una historia y, muchas veces, aprender a leerla comienza simplemente por aprender a mirar. 
+"Desde un comienzo han surgido y siguen surgiendo formas infinitas, las más bellas y maravillosas"
 
-Podemos empezar conectando la sangre como el líquido vital de muchos organismos. Históricamente ha sido utilizada para representar la vida, la muerte,
-el dolor o la protesta social. En este espacio haremos un recorrido por lo que nos puede decir la sangre según su forma, color, espacios, especie, etc.  
+</div>
 
+<div class="autor">
+
+— Charles Darwin, <em>El origen de las especies</em> (1859)
+
+</div>
+
+<br>
+
+<div class="cita">
+
+"Hay una niebla de acontecimientos y, de repente, ves una conexión"
+
+</div>
+
+<div class="autor">
+
+— Victor Weisskopf
+
+</div>
+
+</div>
+
+Una de las conexiones dentro de la niebla de acontecimientos puede encontrarse en algo tan cotidiano como la sangre. A simple vista parece apenas una gota. Bajo el microscopio, es un  paisaje lleno de formas, tamaños, colores y patrones. Cada célula tiene una historia y, muchas veces, aprender a leerla comienza simplemente por aprender a mirar. 
+
+Podemos empezar conectando la sangre como el líquido vital de muchos organismos. Históricamente ha sido utilizada para representar la vida, la muerte, el dolor o la protesta social. En este espacio haremos un recorrido por lo que nos puede decir la sangre según su forma, color, espacios, especie, etc.  
+
+<div style="text-align: center;">
+
+<img src="assets/images/herman.png" width="180" style="margin: 10px;">
+<img src="assets/images/teresa.webp" width="180" style="margin: 10px;">
+
+</div>
 
 
 
