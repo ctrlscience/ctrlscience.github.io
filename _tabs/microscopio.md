@@ -46,14 +46,32 @@ En este espacio nos asomaremos a ese mundo microscópico para descubrir qué pue
 
 <div style="text-align: center;">
 
-<img src="assets/images/herman.png" width="180" style="margin: 10px;">
-<a href="https://sammlung.staedelmuseum.de/en/person/nitsch-hermann?gad_source=1&gad_campaignid=22332317935&gbraid=0AAAAADGswQhSXdToIqIhHD5FL3tr5SEiF&gclid=EAIaIQobChMI6f6P_fCUlwMVgiZECB1YLzLLEAAYASAAEgIuBvD_BwE">Hermann Nitsch: Empleaba sangre para romper tabúes y confrontar al espectador con su propia mortalidad y naturaleza física.</a>
+<div class="imagenes-intro">
 
-<img src="assets/images/teresa.webp" width="180" style="margin: 10px;">
-<small>
-<a href="https://www.fundacionunam.org.mx/rostros/la-artista-teresa-margolles-entre-el-narcotrafico-y-la-injusticia-social/">Teresa Margolles: La sangre, las morgues, el arte y la guerra</a>
-</small>
-</div>
+  <div class="imagen-cita">
+    <img src="assets/images/herman.png"
+         width="180"
+         alt="Hermann Nitsch">
+
+    <small>
+      <a href="https://sammlung.staedelmuseum.de/en/person/nitsch-hermann">
+        Hermann Nitsch: empleaba sangre para romper tabúes y confrontar al espectador con su propia mortalidad y naturaleza física.
+      </a>
+    </small>
+  </div>
+
+  <div class="imagen-cita">
+    <img src="assets/images/teresa.webp"
+         width="180"
+         alt="Teresa Margolles">
+
+    <small>
+      <a href="https://www.fundacionunam.org.mx/rostros/la-artista-teresa-margolles-entre-el-narcotrafico-y-la-injusticia-social/">
+        Teresa Margolles: la sangre, las morgues, el arte y la guerra.
+      </a>
+    </small>
+  </div>
+
 
 
 
