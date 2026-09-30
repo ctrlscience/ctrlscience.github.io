@@ -4,7 +4,7 @@ icon: fas fa-microscope
 order: 4
 ---
 
-# 🔬Un glóbulo rojo no siempre es un glóbulo rojo
+# 🔬 Aprender a mirar 
 
 <div class="epigrafe">
 
@@ -72,13 +72,10 @@ En este espacio nos asomaremos a ese mundo microscópico para descubrir qué pue
     </small>
   </div>
 
-
-
-
 ## 🩸 Un glóbulo rojo no siempre es un glóbulo rojo
 
 
-### ¿Qué es realmente un eritrocito?
+### Aquello que llamamos sangre
 
 - [¿Qué es realmente un eritrocito?](#)
 - [Cuando los eritrocitos cambian de tamaño](#)
@@ -113,18 +110,16 @@ y qué características podemos reconocer en un frotis.
 
 ---
 
-## 🤖 De la microscopía a la computadora
+## ¿Puede una computadora ver la sangre?
 
-Una vez que aprendemos a reconocer una célula,
-podemos hacernos otra pregunta:
-
-> **¿Podemos enseñarle a una computadora a reconocerla también?**
+> **¿Qué significa realmente ver algo?**
 
 - [¿Qué ve una computadora cuando mira un frotis?](#)
-- [Separar una célula del fondo](#)
+- [El microscopio y la computadora tienen un problema en común](#)
 - [¿Cómo separamos células que están pegadas?](#)
 - [¿Qué características podemos medir?](#)
 - [Reconocer patrones](#)
+- [¿Qué pasa cuando una computadora se equivoca?](#)
 - [¿Puede una computadora encontrar un parásito?](#)
 
 ---
