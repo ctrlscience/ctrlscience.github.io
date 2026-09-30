@@ -8,22 +8,6 @@ order: 4
 
 <div class="epigrafe">
 
-<div class="cita">
-
-"Desde un comienzo han surgido y siguen surgiendo formas infinitas, las más bellas y maravillosas"
-
-</div>
-
-<div class="autor">
-
-— Charles Darwin, <em>El origen de las especies</em> (1859)
-
-</div>
-
-<br>
-
-<div class="cita">
-
 "Hay una niebla de acontecimientos y, de repente, ves una conexión"
 
 </div>
@@ -34,9 +18,8 @@ order: 4
 
 </div>
 
-</div>
 
-Una de las conexiones dentro de la niebla de acontecimientos puede encontrarse en algo tan cotidiano como la sangre. A simple vista parece apenas una gota. Bajo el microscopio, sin embargo, se transforma en un paisaje lleno de formas, tamaños, colores y patrones. Cada célula forma parte de una historia y, muchas veces, aprender a interpretarla comienza simplemente por aprender a mirar.
+Una de las conexiones más fascinantes puede encontrarse en algo tan cotidiano como la sangre. Cuando observamos una simple gota bajo el microscopio, se transforma en un paisaje lleno de formas, tamaños, colores y patrones. Cada célula forma parte de una historia y, muchas veces, aprender a interpretarla comienza simplemente por aprender a mirar.
 
 Podemos empezar conectando la sangre como el líquido vital que recorre el cuerpo de muchos organismos, pero su significado va mucho más allá de la biología. A lo largo de la historia, ha sido utilizada para representar la vida, la muerte, el dolor, la violencia y la protesta social. Artistas como Hermann Nitsch y Teresa Margolles han recurrido a ella para explorar precisamente algunas de estas ideas: nuestra relación con el cuerpo, la muerte y aquello que preferimos no mirar.
 
@@ -44,40 +27,46 @@ Pero la sangre también puede leerse de otra manera: como un registro diminuto d
 
 En este espacio nos asomaremos a ese mundo microscópico para descubrir qué puede decirnos una gota de sangre cuando aprendemos a observarla.
 
-<div style="text-align: center;">
-
 <div class="imagenes-intro">
 
-  <div class="imagen-cita">
-    <img src="assets/images/herman.png"
-         width="180"
-         alt="Hermann Nitsch">
+<div class="imagen-cita">
 
-    <small>
-      <a href="https://sammlung.staedelmuseum.de/en/person/nitsch-hermann">
-        Hermann Nitsch: empleaba sangre para romper tabúes y confrontar al espectador con su propia mortalidad y naturaleza física.
-      </a>
-    </small>
-  </div>
+<img src="/assets/images/herman.png"
+     width="180"
+     alt="Hermann Nitsch">
 
-  <div class="imagen-cita">
-    <img src="assets/images/teresa.webp"
-         width="180"
-         alt="Teresa Margolles">
+<small>
+<a href="https://sammlung.staedelmuseum.de/en/person/nitsch-hermann">
+Hermann Nitsch: empleaba sangre para romper tabúes y confrontar al espectador con su propia mortalidad y naturaleza física.
+</a>
+</small>
 
-    <small>
-      <a href="https://www.fundacionunam.org.mx/rostros/la-artista-teresa-margolles-entre-el-narcotrafico-y-la-injusticia-social/">
-        Teresa Margolles: la sangre, las morgues, el arte y la guerra.
-      </a>
-    </small>
-  </div>
+</div>
+
+<div class="imagen-cita">
+
+<img src="/assets/images/teresa.webp"
+     width="180"
+     alt="Teresa Margolles">
+
+<small>
+<a href="https://www.fundacionunam.org.mx/rostros/la-artista-teresa-margolles-entre-el-narcotrafico-y-la-injusticia-social/">
+Teresa Margolles: la sangre, las morgues, el arte y la guerra.
+</a>
+</small>
+
+</div>
+
+</div>
+
+---
 
 ## 🩸 Un glóbulo rojo no siempre es un glóbulo rojo
 
 
 ### Aquello que llamamos sangre
 
-- [¿Qué es realmente un eritrocito?](posts/2026-09-30-que-es-realmente-un-eritrocito.md)
+- [¿Qué es realmente un eritrocito?](/posts/2026-09-30-que-es-realmente-un-eritrocito.md)
 - [Cuando los eritrocitos cambian de tamaño](#)
 - [Cuando los eritrocitos cambian de forma](#)
 - [Cuando el color cuenta una historia](#)
