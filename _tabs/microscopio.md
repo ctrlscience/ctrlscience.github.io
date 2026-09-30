@@ -66,7 +66,7 @@ Teresa Margolles: la sangre, las morgues, el arte y la guerra.
 
 ### Aquello que llamamos sangre
 
-- [¿Qué es realmente un eritrocito?](posts/2026-09-30-que-es-realmente-un-eritrocito.md)
+- [¿Qué es realmente un eritrocito?](/posts/2026-09-30-que-es-realmente-un-eritrocito.md)
 - [Cuando los eritrocitos cambian de tamaño](#)
 - [Cuando los eritrocitos cambian de forma](#)
 - [Cuando el color cuenta una historia](#)
